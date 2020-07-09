@@ -6,4 +6,4 @@ test5
 test6
 test7 webhook worked
 test8 does it fail again?
-diesel debug
+diesel test
